@@ -5,12 +5,6 @@
 
 📫  How to reach me **imsafay[at]gmail.com**
 
-### Technical skills
-- Languages : Javascript (Primary), Java, Python & C++
-- Tools/Frameworks/Library : React, Django, git, vim, VS Code Studio
-- Database : MySQL, MongoDB, InfluxDB
-- Platform : MacOS(Primary), Linux, Windows & Android
-
 ### Latest Blog Posts
 
 <!-- Blog:START -->
@@ -20,7 +14,6 @@
 - [Cracking the SQL Interview](https://github.com/xoraus/CrackingTheSQLInterview)
 - [Western Political Thought - Plato](https://xoraus.github.io/intro-to-Plato)
 <!-- Blog:END -->
-
 
 ### My Github stats
 

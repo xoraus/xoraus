@@ -15,6 +15,4 @@
 - [Western Political Thought - Plato](https://xoraus.github.io/intro-to-Plato)
 <!-- Blog:END -->
 
-### My Github stats
-
-![xoraus's github stats](https://github-readme-stats.vercel.app/api?username=xoraus)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoraus&" alt="xoraus" /></p>

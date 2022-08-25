@@ -14,5 +14,3 @@
 - [Cracking the SQL Interview](https://github.com/xoraus/CrackingTheSQLInterview)
 - [Western Political Thought - Plato](https://xoraus.github.io/intro-to-Plato)
 <!-- Blog:END -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoraus&" alt="xoraus" /></p>

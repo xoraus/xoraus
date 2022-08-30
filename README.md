@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajjad Salaria</h1>  
 
-<h1 align="center">Connect</h1>
+<h1 align="left">Connect</h1>
 
 <p align="center">
 

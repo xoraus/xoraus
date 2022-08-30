@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajjad Salaria</h1>  
 
-<h1 align="left">Connect</h1>
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsalaria/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/xoraus)
-   
-<p align="left"> <a href="https://github.com/xoraus" target="blank"><img src="https://gpvc.arturio.dev/xoraus" alt="xoraus" /></a> </p>  
-
-</p>
-
-
-📫  How to reach me **imsafay[at]gmail.com**
+Seeking an opportunity to work for an organization to have a platform to learn and explore new technologies and to improve my skills.
 
 ### Latest Blog Posts
 
@@ -23,3 +11,15 @@
 - [Cracking the SQL Interview](https://github.com/xoraus/CrackingTheSQLInterview)
 - [Western Political Thought - Plato](https://xoraus.github.io/intro-to-Plato)
 <!-- Blog:END -->
+
+<h3 align="center">Connect</h1>
+<div align="center">
+   
+📫 Drop me a mail @ **imsafay[at]gmail.com**   
+   
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsalaria/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/xoraus)
+
+   <a href="https://github.com/xoraus" target="blank"><img src="https://gpvc.arturio.dev/xoraus" alt="xoraus" /></a>
+
+</div>

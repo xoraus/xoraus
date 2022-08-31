@@ -16,10 +16,13 @@ Seeking an opportunity to work for an organization to have a platform to learn a
 <div align="center">
    
 📫 Drop me a mail @ **imsafay[at]gmail.com**   
-   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsalaria/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/xoraus)
 
-   <a href="https://github.com/xoraus" target="blank"><img src="https://gpvc.arturio.dev/xoraus" alt="xoraus" /></a>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/xoraus)
+[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/xoraus)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsalaria/)
+[![Linkedin](https://img.shields.io/static/v1?label=Portofolio&message=👈&style=for-the-badge&logo=Myspace&logoColor=white&color=red)](https://xoraus.github.io/)
+[![Linkedin](https://img.shields.io/static/v1?label=Blog&message=‎&style=for-the-badge&logo=Hashnode&logoColor=white&color=yellow)](https://xoraus.hashnode.dev/)
+![Profile Views](https://komarev.com/ghpvc/?username=xoraus&style=for-the-badge)
+
 
 </div>

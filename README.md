@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sajjad Salaria</h1>  
+<h1 align="center">Hi 👋🏻, I'm Sajjad Salaria</h1> 
 
-Seeking an opportunity to work for an organization to have a platform to learn and explore new technologies and to improve my skills.
+ <p align="center"> Seeking an opportunity to work for an organization to have a platform to learn and explore new technologies and to improve my skills.</p>
 
-### Latest Blog Posts
+<h3> About Me </h3>
+
+- I'm a <b>Computer Science Engineer</b> who likes to Design, Code & Build.
+- ❤️ I love the intersection of Minimilism, Code & Aesthetics (MAC).
+- 👨🏽‍💻 I love to explore and learn new things in Computer Science & Philosophy.
+- 🚀 Currently I'm working on a project called <b>Ghazalian Paradigm</b> (a Home Schooling Platform)
+
+
+<h3> Latest Blog Posts </h3>
 
 <!-- Blog:START -->
 - [Using The Super Resolution Convolutional Neural Network for Image Restoration](https://medium.com/p/ff1e8420d846)

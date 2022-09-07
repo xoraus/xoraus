@@ -4,16 +4,15 @@
 
 <h3> About Me </h3>
 
-- I'm a <b>Computer Science Engineer</b> who likes to Design, Code & Build.
+- 👨🏽‍💻 I'm a <b>Computer Science Engineer</b> who likes to Design, Code & Build.
 - ❤️ I love the intersection of Minimilism, Code & Aesthetics (MAC).
-- 👨🏽‍💻 I love to explore and learn new things in Computer Science & Philosophy.
 - 🚀 Currently I'm working on a project called <b>Ghazalian Paradigm</b> (a Home Schooling Platform)
 
 
 <h3> Latest Blog Posts </h3>
 
 <!-- Blog:START -->
-- [Using The Super Resolution Convolutional Neural Network for Image Restoration](https://medium.com/p/ff1e8420d846)
+- [The Super Resolution CNN for Image Restoration](https://medium.com/p/ff1e8420d846)
 - [K Means Clustering for Imagery Analysis](https://medium.com/p/56c9976f16b6)
 - [Breast Cancer Detection using Machine Learning](https://medium.com/p/475d3b63e18e)
 - [Cracking the SQL Interview](https://github.com/xoraus/CrackingTheSQLInterview)

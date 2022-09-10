@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Sajjad Salaria</h1> 
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=xoraus&style=for-the-badge) ![Stars](https://img.shields.io/github/stars/xoraus?label=stars&&style=for-the-badge)  
+
+</div>
+
  <p align="center"> Seeking an opportunity to work for an organization to have a platform to learn and explore new technologies and to improve my skills.</p>
 
 <h3> About Me </h3>
@@ -30,8 +36,5 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsalaria/)
 [![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/xoraus)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/xoraus)
-
-![Profile Views](https://komarev.com/ghpvc/?username=xoraus&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/xoraus?label=stars&&style=for-the-badge)
 
 </div>

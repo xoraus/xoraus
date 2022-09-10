@@ -24,12 +24,12 @@
    
 📫 Drop me a mail - **imsafay@gmail.com**   
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/xoraus)
-[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/xoraus)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsalaria/)
-
 [![Linkedin](https://img.shields.io/static/v1?label=Portofolio&message=👈&style=for-the-badge&logo=Myspace&logoColor=white&color=red)](https://xoraus.github.io/)
 [![Linkedin](https://img.shields.io/static/v1?label=Blog&message=‎&style=for-the-badge&logo=Hashnode&logoColor=white&color=yellow)](https://xoraus.hashnode.dev/)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsalaria/)
+[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/xoraus)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/xoraus)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xoraus&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/xoraus?label=stars&&style=for-the-badge)

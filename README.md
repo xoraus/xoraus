@@ -36,5 +36,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsalaria/)
 [![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/xoraus)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/xoraus)
+ 
+ [![Sajjad's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=xoraus)](https://github.com/xoraus/readme.md)
 
 </div>

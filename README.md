@@ -6,12 +6,12 @@
 
 </div>
 
- <p align="center"> Seeking an opportunity to work for an organization to have a platform to learn and explore new technologies and to improve my skills.</p>
+ <p align="center"> Seeking opportunities to work for an organization to have a platform to learn and explore new technologies and to improve my skills.</p>
 
 <h3> About Me </h3>
 
 - 👨🏽‍💻 I'm a <b>Computer Science Engineer</b> who likes to Design, Code & Build.
-- ❤️ I love the intersection of Minimilism, Code & Aesthetics (MAC).
+- ❤️ I love the intersection of Minimalism, Code & Aesthetics (MAC).
 - 🚀 Currently I'm working on a project called <b>Ghazalian Paradigm</b> (a Home Schooling Platform)
 
 
@@ -32,11 +32,6 @@
 
 [![Linkedin](https://img.shields.io/static/v1?label=Portofolio&message=👈&style=for-the-badge&logo=Myspace&logoColor=white&color=red)](https://xoraus.github.io/)
 [![Linkedin](https://img.shields.io/static/v1?label=Blog&message=‎&style=for-the-badge&logo=Hashnode&logoColor=white&color=yellow)](https://xoraus.hashnode.dev/)
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsalaria/)
-[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/xoraus)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/xoraus)
- 
- [![Sajjad's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=xoraus)](https://github.com/xoraus/readme.md)
 
 </div>

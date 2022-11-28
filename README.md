@@ -25,8 +25,7 @@
 <div align="center">
    
 📫 Drop me a mail - **imsafay@gmail.com**   
-
-[![Linkedin](https://img.shields.io/static/v1?label=Portofolio&message=👈&style=for-the-badge&logo=Myspace&logoColor=white&color=red)](https://xoraus.github.io/)
+   
 [![Linkedin](https://img.shields.io/static/v1?label=Blog&message=‎&style=for-the-badge&logo=Hashnode&logoColor=white&color=yellow)](https://xoraus.hashnode.dev/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsalaria/)
 

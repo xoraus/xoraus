@@ -19,10 +19,6 @@
 
 <!-- Blog:START -->
 - [The Super Resolution CNN for Image Restoration](https://medium.com/p/ff1e8420d846)
-- [K Means Clustering for Imagery Analysis](https://medium.com/p/56c9976f16b6)
-- [Breast Cancer Detection using Machine Learning](https://medium.com/p/475d3b63e18e)
-- [Cracking the SQL Interview](https://github.com/xoraus/CrackingTheSQLInterview)
-- [Western Political Thought - Plato](https://xoraus.github.io/intro-to-Plato)
 <!-- Blog:END -->
 
 <h3 align="center">Connect</h1>

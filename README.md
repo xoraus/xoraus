@@ -6,7 +6,6 @@
 
 </div>
 
- <p align="center"> Seeking opportunities to work for an organization to have a platform to learn and explore new technologies and to improve my skills.</p>
 
 <h3> About Me </h3>
 
@@ -22,6 +21,7 @@
 <!-- Blog:END -->
 
 <h3 align="center">Connect</h1>
+
 <div align="center">
    
 📫 Drop me a mail - **imsafay@gmail.com**   

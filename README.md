@@ -10,7 +10,7 @@
 <h3> About Me </h3>
 
 - 👨🏽‍💻 I'm a <b>Computer Science Engineer</b> who likes to Design, Code & Build.
-- ❤️ I love the intersection of Minimalism, Code & Aesthetics (MAC).
+- ❤️ I love the intersection of Minimalism, Code & Aesthetics.
 - 🚀 Currently I'm working on a project called <b>Ghazalian Paradigm</b> (a Home Schooling Platform)
 
 

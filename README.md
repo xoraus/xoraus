@@ -18,6 +18,8 @@
 
 <!-- Blog:START -->
 - [The Super Resolution CNN for Image Restoration](https://medium.com/p/ff1e8420d846)
+- [What Top Product-Based Companies Look for in Candidates. Tips from Senior Software Engineer at Microsoft (16 YOE)](https://xoraus.hashnode.dev/breaking-into-the-big-leagues-tips-from-senior-software-engineer-at-microsoft-16-yoe)
+
 <!-- Blog:END -->
 
 <h3 align="center">Connect</h1>

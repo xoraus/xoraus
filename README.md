@@ -17,7 +17,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=xoraus&style=for-the-badge) ![Stars](https://img.shields.io/github/stars/xoraus?label=stars&&style=for-the-badge)  
+![Profile Views](https://komarev.com/ghpvc/?username=xoraus&style=for-the-badge) 
+   
+<!-- ![Stars](https://img.shields.io/github/stars/xoraus?label=stars&&style=for-the-badge)   -->
 
 </div>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Sajjad Salaria</h1> 
+<!-- <h1 align="center">Hi 👋🏻, I'm Sajjad Salaria</h1>  -->
    
 <h3> 🏡 About Me </h3>
 
@@ -11,9 +11,9 @@
 
 <!-- Blog:START -->
 - [The Super Resolution CNN for Image Restoration](https://medium.com/p/ff1e8420d846)
-- [Insights on what top product companies seek in candidates from a seasoned Engineer at Microsoft](https://xoraus.hashnode.dev/breaking-into-the-big-leagues-tips-from-senior-software-engineer-at-microsoft-16-yoe)
+- [Advice from a Senior Microsoft Engineer (16YOE) to a Beginner Programmer.](https://xoraus.hashnode.dev/breaking-into-the-big-leagues-tips-from-senior-software-engineer-at-microsoft-16-yoe)
    
-❓I live by the "No Zero Days" philosophy. With an unrelenting drive to constantly improve, I soak up every opportunity to learn - whether it's just a single sentence or an intense 8-hour coding session. 
+>❓I embrace the 'No Zero Days' philosophy, always eager to learn and improve, whether it's through a serendipitous conversation or an 8-hour coding marathon.
 
 <div align="center">
 

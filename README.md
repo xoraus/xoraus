@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻 I'm a <b>Computer Science Engineer</b> who likes to Design, Code & Build.
 - ❤️ I love the intersection of Minimalism, Code & Aesthetics.
-- 🚀 Currently I'm working on a project called <b>Ghazalian Paradigm</b> (a Home Schooling Platform)
+- 🚀 Currently I'm working on <b>Polymath Academy</b> (a Home Schooling Platform)
 
 
 <h3> 🔥 Latest Blog Posts </h3>

@@ -10,6 +10,7 @@
 <h3> 🔥 Latest Blog Posts </h3>
 
 <!-- Blog:START -->
+- [Node.js Script to Export Your Twitter Following List](https://xoraus.medium.com/how-to-export-your-twitter-following-list-to-a-csv-file-d3228d7d5650)
 - [The Super Resolution CNN for Image Restoration](https://medium.com/p/ff1e8420d846)
 - [Advice from a Senior Microsoft Engineer (16YOE) to a Beginner Programmer.](https://xoraus.hashnode.dev/breaking-into-the-big-leagues-tips-from-senior-software-engineer-at-microsoft-16-yoe)
    

@@ -2,10 +2,9 @@
    
 <h3> 🏡 About Me </h3>
 
-- 👨🏽‍💻 I'm a <b>Computer Science Engineer</b> who likes to Design, Code & Build.
-- ❤️ I love the intersection of Minimalism, Code & Aesthetics.
-- 🚀 Currently I'm working on <b>Polymath Academy</b> (a Home Schooling Platform)
-
+- 👨🏻‍💻I'm a <b>computer science engineer</b> who likes to design, code, and build.
+- ❤️ I love the intersection of minimalism, code, and aesthetics.
+- 🚀 Currently, I'm working on <b>Polymath Academy</b> (a homeschooling platform).
 
 <h3> 🔥 Latest Blog Posts </h3>
 
@@ -14,7 +13,7 @@
 - [The Super Resolution CNN for Image Restoration](https://medium.com/p/ff1e8420d846)
 - [Advice from a Senior Microsoft Engineer (16YOE) to a Beginner Programmer.](https://xoraus.hashnode.dev/breaking-into-the-big-leagues-tips-from-senior-software-engineer-at-microsoft-16-yoe)
    
->❓I embrace the 'No Zero Days' philosophy, always eager to learn and improve, whether it's through a serendipitous conversation or an 8-hour coding marathon.
+>❓I embrace the 'No Zero Days' philosophy, whether it's through a serendipitous conversation or an 8-hour coding marathon.
 
 <div align="center">
 

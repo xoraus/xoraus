@@ -10,9 +10,9 @@
 <h3> 🔥 Latest Blog Posts </h3>
 <!-- Blog:START -->
 
+- [Are humans inherently violent?](https://xoraus.medium.com/exploring-the-nature-of-human-violence-e73b0a8169c9)
 - [Node.js Backend Development: A Comprehensive Introduction - Part 1](https://xoraus.hashnode.dev/nodejs-backend-development-a-comprehensive-introduction-part-1)
 - [The Super Resolution CNN for Image Restoration](https://medium.com/p/ff1e8420d846)
-- [Node.js Script to Export Your Twitter Following List](https://xoraus.medium.com/how-to-export-your-twitter-following-list-to-a-csv-file-d3228d7d5650)
 - [Advice from a Senior Microsoft Engineer (16YOE) to a Beginner Programmer.](https://xoraus.hashnode.dev/breaking-into-the-big-leagues-tips-from-senior-software-engineer-at-microsoft-16-yoe)
 
 

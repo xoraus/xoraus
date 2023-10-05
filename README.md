@@ -4,7 +4,7 @@
    
 &nbsp;👨🏻‍💻 I'm CS Graduate currently working as a Fullstack Engineer.\
 &nbsp;❤️ I love the intersection of Minimalism, Code & Aesthetics.\
-&nbsp;🚀 Since 2022, I have embraced [No Zero Days](#) philosophy.\
+&nbsp;🚀 Since 2022, I have embraced [No Zero Days](https://medium.com/@xoraus/no-more-zero-days-embrace-consistent-progress-ecc742e7e3d8) philosophy.\
 &nbsp;🛠️ On weekends, I study Ancient Civilizations & Guerrilla warfare.
    
 <h3> 🔥 Latest Blog Posts </h3>

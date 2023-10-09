@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋🏻, I'm Sajjad Salaria (aka xoraus)</h1> 
+<!-- <h1 align="left">Hi 👋🏻, I'm Sajjad Salaria (aka xoraus)</h1>-->
 
 <!-- <img alt="Night Coding" src="https://cdn.dribbble.com/users/626327/screenshots/2913306/media/cdff5a5b7c68885d330ef7b7a7c7e19b.gif" width="350" align="right"/> -->
    

@@ -2,9 +2,9 @@
 
 <!-- <img alt="Night Coding" src="https://cdn.dribbble.com/users/626327/screenshots/2913306/media/cdff5a5b7c68885d330ef7b7a7c7e19b.gif" width="350" align="right"/> -->
    
-&nbsp;👨🏻‍💻 I'm CS Graduate currently working as a Backend Engineer.\
-&nbsp;❤️ I love the intersection of Minimalism, Code & Aesthetics.\
-&nbsp;🛠️ I blog @ [Recursive Stack](https://xoraus.github.io/) about poetry, programming and political philosophy.\
+&nbsp;🔭 I'm CS Graduate currently working as a Backend Engineer.\
+&nbsp;🤍 I love the intersection of Minimalism, Code & Aesthetics.\
+&nbsp;👨🏻‍💻 I blog @ [Recursive Stack](https://xoraus.github.io/) about poetry, programming and political philosophy.\
 &nbsp;🚀 Since 2022, I have embraced [No Zero Days](https://medium.com/@xoraus/no-more-zero-days-embrace-consistent-progress-ecc742e7e3d8) philosophy.
    
 👨🏻‍💻 **Blog**

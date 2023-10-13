@@ -12,6 +12,8 @@
 
 - [Are humans inherently violent?](https://xoraus.medium.com/exploring-the-nature-of-human-violence-e73b0a8169c9)
 - [The Super Resolution CNN for Image Restoration](https://medium.com/p/ff1e8420d846)
-   
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=xoraus&style=for-the-badge) 
 

@@ -15,5 +15,8 @@
 
 ---
 
+<div align="center">
+   
 ![Profile Views](https://komarev.com/ghpvc/?username=xoraus&style=for-the-badge) 
 
+</div>

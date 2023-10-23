@@ -5,7 +5,8 @@
 &nbsp;🔭 I'm CS Graduate currently working as a Backend Engineer.\
 &nbsp;🤍 I love the intersection of Minimalism, Code & Aesthetics.\
 &nbsp;👨🏻‍💻 I blog @ [Recursive Stack](https://xoraus.github.io/) about poetry, programming and political philosophy.\
-&nbsp;🚀 Since 2022, I have embraced [No Zero Days](https://medium.com/@xoraus/no-more-zero-days-embrace-consistent-progress-ecc742e7e3d8) philosophy.
+&nbsp;🚀 Since 2022, I have embraced [No Zero Days](https://medium.com/@xoraus/no-more-zero-days-embrace-consistent-progress-ecc742e7e3d8) philosophy.\
+&nbsp;⚔️ On weekends, I read about guerrilla warfare and watch a lot of anime—like, a whole lot.
    
 👨🏻‍💻 **Blog**
 <!-- Blog:START -->

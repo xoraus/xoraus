@@ -9,7 +9,7 @@
 &nbsp;🤍 I love the intersection of Minimalism, Code & Aesthetics.\
 &nbsp;🚀 Since 2022, I have embraced [No Zero Days](https://medium.com/@xoraus/no-more-zero-days-embrace-consistent-progress-ecc742e7e3d8) philosophy.\
 &nbsp;⚔️ On weekends, I like to read about homesteading, bushcraft, and warfare. \
-&nbsp;🐧 You can often find me expressing my thoughts and ideas at [Recursive Stack](https://xoraus.github.io/).\
+&nbsp;🐧 You can often find me expressing my thoughts and ideas at [Recursive Stack](https://xoraus.github.io/).
 
 
 👨🏻‍💻 **Blog**

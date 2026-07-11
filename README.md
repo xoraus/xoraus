@@ -1,6 +1,6 @@
 <!-- <h1 align="left">Hi 👋🏻, I'm Sajjad Salaria (aka xoraus)</h1> -->
 <!-- ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
-![version :28.01.2024](https://img.shields.io/badge/version-11.07.2026-informational) &nbsp;
+<!-- ![version :28.01.2024](https://img.shields.io/badge/version-11.07.2026-informational) &nbsp; -->
 ![profile count](https://komarev.com/ghpvc/?username=xoraus&color=red)&nbsp;
 
 <!--
